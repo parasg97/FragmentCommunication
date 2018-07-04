@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MemeGenrator</string>
+    <string name="top_text">Top text</string>
+    <string name="bottom_text">Bottom Text</string>
+    <string name="create">Create</string>
+    <string name="image">image</string>
+    <string name="textview1">TextView</string>
+    <string name="textview2">TextView</string>
+</resources>
